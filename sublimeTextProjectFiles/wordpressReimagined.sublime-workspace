@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"initi",
+				"initializeControl"
+			],
+			[
+				"sh",
+				"shadowCNTRL"
+			],
+			[
+				"divShadowCntrl",
+				"divShadowCntrlDistanceValue"
+			],
+			[
+				"fontweigh",
+				"fontWeightSelect"
+			],
+			[
+				"fontW",
+				"fontWeightSelect"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"properties",
+				"contentPropertiesBox"
+			],
+			[
+				"get",
+				"getActiveObject"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"par",
+				"parStore"
+			],
+			[
+				"color",
+				"colorBoxContentID"
+			],
+			[
+				"listtes",
+				"listTextElemsProperties"
+			],
+			[
+				"listtextele",
+				"listTextElemsProperties"
+			],
+			[
+				"add",
+				"addChild"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"fill",
+				"fillObjects"
+			],
+			[
+				"ap",
+				"appendID"
+			],
+			[
+				"colorbox",
+				"colorboxCustom"
+			],
+			[
+				"pos",
+				"positionHandle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/trillobite/Documents/gitProjects/wordpressReimagined-/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/colorbox/jquery.colorboxCustom.js",
+		"/home/trillobite/Downloads/IMG_20150826_080629.jpg",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/CMG/cmg_shelled.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/CMG/jsonHTMLVersion.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/CMG/containerTesting.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/CMG_Controls_Styles.css",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/jsonHTML-0.9.5-beta/jsonHTML.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/CMG/test.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/colorbox/jquery.colorbox.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/colorbox/jquery.listerColorbox.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/jquery-ui.theme.min.css",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/colorbox.css",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/jsonHTML-0.9.5-beta/jsonHTML.min.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/micronDB/micronDB.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/jquery-ui/jquery-ui.min.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/jquery.min.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/CMG/CMG_Controls.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/evol.colorpicker.css",
+		"/home/trillobite/Desktop/CanvasControls/HTMLPage.htm",
+		"/home/trillobite/Desktop/CanvasControls/Styles/CMG_Controls_Styles.css",
+		"/home/trillobite/Desktop/CanvasControls/BuildShadowHTML.htm",
+		"/home/trillobite/Documents/gitProjects/microndb/micronDB.min.js",
+		"/home/trillobite/Desktop/CanvasControls/Scripts/CMG_Controls.js",
+		"/home/trillobite/Documents/gitProjects/microndb/micronDB.js",
+		"/home/trillobite/Documents/gitProjects/microndb/README.md",
+		"/home/trillobite/Desktop/jsonHTMLConverted.js",
+		"/home/trillobite/Desktop/sample.html",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/connection.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/templates.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/colorboxCustom.css",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/listerColorbox.css",
+		"/home/trillobite/Documents/CreationKitDevelopment/css/styles.css",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/class.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/fontPicker/newPicker.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/canvSelMen.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/canvCrMen.js",
+		"/home/trillobite/Documents/gitProjects/mvpCreationKit/scripts/jsonHTML-0.9.5-beta/jsonHTML.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/fontPicker/fontpicker.js",
+		"/home/trillobite/Documents/gitProjects/fontPicker/scripts/script.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/script.js",
+		"/home/trillobite/Documents/gitProjects/mvpCreationKit/scripts/script.js",
+		"/home/trillobite/Desktop/GWFSelect-for-jQuery-UI-master/index.html",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/colorPicker/evol.colorpicker.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/index.html",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/editWindow.js",
+		"/home/trillobite/Documents/gitProjects/colorbox/jquery.colorbox.js",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/jquery.colorbox-min.js",
+		"/home/trillobite/Documents/mvpCreationKit.sublime-project",
+		"/home/trillobite/Documents/CreationKitDevelopment/scripts/jquery-filedrop-0.1.0/jquery.filedrop.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"txtShadowAngle",
+			"ShadowBlurValue",
+			"data",
+			"rgba.color",
+			"divShadowCntrl",
+			"txtShadowAngle",
+			"convertAngleDistanceToOffests",
+			"convertAngleDistanceto",
+			"convertAngleDistancetoOffsets",
+			"convertAngleDistanceToOffsets",
+			"getHexColor",
+			"colorShadow",
+			"console.log",
+			"getRGBA",
+			"setRGBA",
+			"control.rgba",
+			"GetImageShadowDirection",
+			"imgShadowControl",
+			"rotateAnimation",
+			"imgShadowControl",
+			"convertAngleDistanceToOffsets",
+			"ConvertAngleDistancetoOffests",
+			"colorShadow",
+			"handlerFunction",
+			"Distance",
+			"control.properties.domElements",
+			"convertOffsetsToAngleDistance",
+			"rotateAnimation",
+			"img",
+			"OffsetX",
+			"slider3",
+			"slider2",
+			"LayerStrokeControls",
+			"divcontainer",
+			"divowner",
+			"CreateShadowCNTRLHTML",
+			"CreateLayerOpacityCNTRLHTML",
+			"LayerOpacityControls",
+			"_ChangeHandlerFunction",
+			"_thiscontrol",
+			"GetImageShadowDirection",
+			"jsonInput._xOffset",
+			"imgShadowControl",
+			"imgShadowControll",
+			"imgShadowControl",
+			"_thiscontrol",
+			"App.Controls.Gobals_mouseDown",
+			"Gobals_mouseDown",
+			"cmg_functions",
+			"_thiscontrol",
+			"changeHandlerFunction",
+			"control",
+			"this",
+			"return",
+			"CreateLayerStrokeCNTRLHTML",
+			"divShadowCntrlOpacitySlider",
+			"cntrlDistance",
+			"ShadowDistanceValue",
+			"valueSettings",
+			"cntrlDistance",
+			"divShadowCntrlDistanceValue",
+			"divShadowCntrlBlur",
+			"divShadowCntrlDistance",
+			"divShadowDistanceHeader",
+			"divShadowOpacityHeader",
+			"divShadowDistanceHeader",
+			"ShadowDistanceValue",
+			"divShadowCntrlDistanceValue",
+			"divShadowCntrlDistance",
+			"divShadowCntrlDirection",
+			"divShadowColorCntrl",
+			"divShadowControlAngle",
+			"divShadowControlImgage",
+			"sliderDistance",
+			"arrdb.hash",
+			"trapFocus",
+			"ShadowColor",
+			"colorPicker",
+			"StrokeColor",
+			"128",
+			"colorpicker",
+			"data",
+			"jSoninputValues",
+			"variable",
+			"value",
+			"setRGBA",
+			"control",
+			"controls",
+			"rgbaDeconstruct",
+			"this",
+			"cboxLoadedContent",
+			"LoadedContent",
+			"CntrlOpacity",
+			"save",
+			"$('#loadSpinner')",
+			"$('#loadSpinner').fadeOut('slow')",
+			"$('#loadSpinner').show()",
+			"listenerColorbox",
+			"cboxc",
+			"colorboxCustom",
+			"cbox",
+			"colorbox",
+			"cbox",
+			"colorbox",
+			"save",
+			".name",
+			"'name not defined'",
+			"fillData",
+			"contentBox",
+			"setActiveObject",
+			".\n",
+			"tiny",
+			"exclude",
+			"draggable",
+			"tinyDraggable",
+			"objectProperty",
+			"filters",
+			"contentBox",
+			"previous.id",
+			"propertiesBoxID",
+			"filters",
+			"fillRefObjDiv",
+			"checkFunc",
+			"addProperty",
+			"b.",
+			"z-index",
+			"projFuncs",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/trillobite/Documents/gitProjects/wordpressReimagined-/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
